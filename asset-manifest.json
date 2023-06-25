@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mashinki/static/css/main.f64cfff2.css",
-    "main.js": "/mashinki/static/js/main.0de41a2d.js",
+    "main.js": "/mashinki/static/js/main.d650af02.js",
     "static/js/787.fd8ef3b2.chunk.js": "/mashinki/static/js/787.fd8ef3b2.chunk.js",
     "index.html": "/mashinki/index.html",
     "main.f64cfff2.css.map": "/mashinki/static/css/main.f64cfff2.css.map",
-    "main.0de41a2d.js.map": "/mashinki/static/js/main.0de41a2d.js.map",
+    "main.d650af02.js.map": "/mashinki/static/js/main.d650af02.js.map",
     "787.fd8ef3b2.chunk.js.map": "/mashinki/static/js/787.fd8ef3b2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f64cfff2.css",
-    "static/js/main.0de41a2d.js"
+    "static/js/main.d650af02.js"
   ]
 }
